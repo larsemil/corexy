@@ -1134,7 +1134,7 @@
 #define Z_MIN_POS 0
 #define X_MAX_POS 340
 #define Y_MAX_POS 330
-#define Z_MAX_POS 440
+#define Z_MAX_POS 380
 
 /**
  * Software Endstops
@@ -1807,7 +1807,7 @@
 //
 // Add individual axis homing items (Home X, Home Y, and Home Z) to the LCD menu.
 //
-//#define INDIVIDUAL_AXIS_HOMING_MENU
+#define INDIVIDUAL_AXIS_HOMING_MENU
 
 //
 // SPEAKER/BUZZER
